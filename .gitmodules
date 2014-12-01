@@ -1,0 +1,4 @@
+[submodule "pycon_presentation"]
+	path = pycon_presentation
+	url = git@github.com:clement-moulin-frier/pycon_lyon_2014.git
+	branch = web
